@@ -7,8 +7,8 @@ The focus is **enterprise use-cases**, **risk/compliance**, and **operational au
 
 ## Projects
 
-1. [Enterprise Meeting Intelligence Agent (EMIA)](./EMIA)
-2. [AI Operations Triage Agent (AOTA)](./AOTA)
+1. [Enterprise Meeting Intelligence Agent (EMIA)](./EMIA) (./EMIA/README.md)
+2. [AI Operations Triage Agent (AOTA)](./AOTA) (./AOTA/README.md)
 3. [Risk & Compliance Intelligence Agent (RCIA)](./RCIA) (in progress)
 
 ## Tech Stack
