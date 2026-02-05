@@ -66,11 +66,7 @@ Technology is intentionally **simple and explainable.**
 
 ## Demo Video
 
-🎥 Watch the working demo: 👉 <a href="https://drive.google.com/file/d/1pb-1cI99Qmu9W6vjRqZIlKrCWc_Cjw44/view?usp=sharing" target=:_blank"> [EMIA project training video] </a>
-
-<a href="[https://your-google-drive-link](https://drive.google.com/file/d/1pb-1cI99Qmu9W6vjRqZIlKrCWc_Cjw44/view?usp=sharing)" target="_blank">
-🎥 Watch Demo Video (opens in new tab)
-</a>
+🎥 Watch the working demo: 👉 https://drive.google.com/file/d/1pb-1cI99Qmu9W6vjRqZIlKrCWc_Cjw44/view?usp=sharing 
 
 (The video walks through the problem, solution, and live agent execution.)
 
