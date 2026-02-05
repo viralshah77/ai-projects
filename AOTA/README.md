@@ -51,4 +51,5 @@ it’s about **operational discipline at scale.**
 Technology is intentionally kept simple —
 **focus is on decision flow, not tools.**
 
-### Demo Video
+### Demo Video --> 
+https://drive.google.com/file/d/1kpuPrAV7nghvwdnJ7R68I3xoC0GhhANt/view
